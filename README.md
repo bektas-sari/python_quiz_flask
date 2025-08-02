@@ -1,6 +1,7 @@
 # 🧠 Python Quiz App with Flask
 
-A minimal and elegant quiz web application built with Flask. Designed for learners and educators alike, this app helps users test their knowledge of Python fundamentals through multiple-choice questions.
+A minimal and elegant quiz web application built with Flask. 
+Designed for learners and educators alike, this app helps users test their knowledge of Python fundamentals through multiple-choice questions.
 
 ---
 
